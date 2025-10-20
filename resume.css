@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
+.main {
+    background-color: rgb(179, 110, 88);
+    padding: 40px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}

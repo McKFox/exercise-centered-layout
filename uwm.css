@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(128, 167, 239);
+    padding: 40px;
+}
+
+.main {
+    background-color:rgb(130, 120, 216);
+    padding: 40px;
+}
+
+.footer {
+    background-color:rgb(101, 101, 209);
+    padding: 40px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}
