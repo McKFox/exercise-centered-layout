@@ -18,6 +18,6 @@ body {
 }
 
 .wrapper {
-    max-width: 600px;
     margin: auto;
+    max-width: 650px;
 }
